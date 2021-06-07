@@ -1,5 +1,5 @@
 # 導入方法
-[記事参照]()*現在非公開
+[記事参照](https://qiita.com/zackey_/items/e8ad27eb4268186a09f0)
 
 # お願い
 kintone歴3年目の私ですが、  
